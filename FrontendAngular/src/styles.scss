@@ -1,0 +1,14 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: antiquewhite;
+  background-color: #e44e4e;
+  background-image: radial-gradient(circle at 50% 50%, #333 1px, transparent 1px);
+  background-size: 40px 40px;
+  color: black;
+}
+body {
+  display: flex;
+  flex-direction: column;
+}
