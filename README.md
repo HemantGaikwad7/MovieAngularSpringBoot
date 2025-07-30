@@ -4,3 +4,6 @@
 
 
 <img width="1319" height="646" alt="image" src="https://github.com/user-attachments/assets/e7d86bc1-7d1e-408b-96b8-287090998160" />
+
+Future Work:
+Will be using Gemini API to allow users to chat and ask questions related to movie
